@@ -1,0 +1,5 @@
+sr_logo.jpg
+__pycache__
+*.pyc
+instructions.txt
+startup.sh
